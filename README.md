@@ -22,6 +22,7 @@ I'm a graduate student studying Computer Science and Engineering in National Yan
 | [CVE-2024-45490](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45490) | libexpat                                       | 9.8     |
 | [CVE-2024-45491](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45491) | libexpat                                       | 9.8     |
 | [CVE-2024-45492](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45492) | libexpat                                       | 9.8     |
+| [CVE-2024-45691](https://moodle.org/mod/forum/discuss.php?d=461897#p1854494)    | Moodle                                         | Minor   |
 
 ## My Bounties
 
