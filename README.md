@@ -5,6 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sun@taiyou.tw)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://taiyou.tw)
 
+[<img src="https://github.com/user-attachments/assets/cabd89c1-2234-4ba1-9757-a56500dbc1d0" alt="OSWA" width="125px">](https://www.credential.net/0ab75dfd-b494-4b1a-b92c-2e61f225526c)
+
 I'm a graduate student studying Computer Science and Engineering in National Yang Ming Chiao Tung University. Majoring in backend and web security.
 
 ## My CVEs
