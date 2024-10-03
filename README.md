@@ -11,20 +11,23 @@ I'm a graduate student studying Computer Science and Engineering in National Yan
 
 ## My CVEs
 
-| CVE ID                                                                          | Target                                         | CVSS3   |
-| ------------------------------------------------------------------------------- | ---------------------------------------------- | ------- |
-| [CVE-2024-8327](https://www.twcert.org.tw/en/cp-139-8032-a3d5c-2.html)          | Easy test Online Learning and Testing Platform | 8.8     |
-| [CVE-2024-8328](https://www.twcert.org.tw/en/cp-139-8033-0a98f-2.html)          | Easy test Online Learning and Testing Platform | 5.4     |
-| CVE-2024-40445                                                                  | ████                                           | ██      |
-| CVE-2024-40446                                                                  | ████                                           | ██      |
-| [CVE-2024-41481](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41481) | Typora                                         | 6.1     |
-| [CVE-2024-41482](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41482) | Typora                                         | 6.1     |
-| [CVE-2024-43426](https://moodle.org/mod/forum/discuss.php?d=461194#p1851864)    | Moodle                                         | Serious |
-| [CVE-2024-43436](https://moodle.org/mod/forum/discuss.php?d=461206#p1851878)    | Moodle                                         | Serious |
-| [CVE-2024-45490](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45490) | libexpat                                       | 9.8     |
-| [CVE-2024-45491](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45491) | libexpat                                       | 9.8     |
-| [CVE-2024-45492](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45492) | libexpat                                       | 9.8     |
-| [CVE-2024-45691](https://moodle.org/mod/forum/discuss.php?d=461897#p1854494)    | Moodle                                         | Minor   |
+| CVE ID                                                                                                                                                            | Target                                         | CVSS3   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------- |
+| [CVE-2024-8327](https://www.twcert.org.tw/en/cp-139-8032-a3d5c-2.html)                                                                                            | Easy test Online Learning and Testing Platform | 8.8     |
+| [CVE-2024-8328](https://www.twcert.org.tw/en/cp-139-8033-0a98f-2.html)                                                                                            | Easy test Online Learning and Testing Platform | 5.4     |
+| CVE-2024-40445                                                                                                                                                    | ████                                           | ██      |
+| CVE-2024-40446                                                                                                                                                    | ████                                           | ██      |
+| [CVE-2024-41481](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41481)                                                                                   | Typora                                         | 6.1     |
+| [CVE-2024-41482](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-41482)                                                                                   | Typora                                         | 6.1     |
+| [CVE-2024-43426](https://moodle.org/mod/forum/discuss.php?d=461194#p1851864)                                                                                      | Moodle                                         | Serious |
+| [CVE-2024-43436](https://moodle.org/mod/forum/discuss.php?d=461206#p1851878)                                                                                      | Moodle                                         | Serious |
+| [CVE-2024-45490](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45490)                                                                                   | libexpat                                       | 9.8     |
+| [CVE-2024-45491](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45491)                                                                                   | libexpat                                       | 9.8     |
+| [CVE-2024-45492](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-45492)                                                                                   | libexpat                                       | 9.8     |
+| [CVE-2024-45691](https://moodle.org/mod/forum/discuss.php?d=461897#p1854494)                                                                                      | Moodle                                         | Minor   |
+| [CVE-2024-47373](https://patchstack.com/database/vulnerability/litespeed-cache/wordpress-litespeed-cache-plugin-6-5-0-2-cross-site-scripting-xss-vulnerability-2) | LiteSpeed Cache                                | 6.5     |
+| [CVE-2024-47374](https://patchstack.com/database/vulnerability/litespeed-cache/wordpress-litespeed-cache-plugin-6-5-0-2-cross-site-scripting-xss-vulnerability)   | LiteSpeed Cache                                | 7.1     |
+| [CVE-2024-47637](https://patchstack.com/database/vulnerability/litespeed-cache/wordpress-litespeed-cache-plugin-6-4-1-path-traversal-vulnerability)               | LiteSpeed Cache                                | 8.8     |
 
 ## My Bounties
 
