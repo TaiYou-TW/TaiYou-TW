@@ -7,7 +7,7 @@
 
 [<img src="https://github.com/user-attachments/assets/cabd89c1-2234-4ba1-9757-a56500dbc1d0" alt="OSWA" width="125px">](https://www.credential.net/0ab75dfd-b494-4b1a-b92c-2e61f225526c)
 
-I'm a graduate student studying Computer Science and Engineering in National Yang Ming Chiao Tung University. Majoring in backend and web security.
+Experienced developer and security researcher with a strong background in software development and information security. Skilled in identifying, analyzing security risks, with a proven track record in both technical projects and security research.
 
 ## My CVEs
 
