@@ -29,6 +29,7 @@ I'm a graduate student studying Computer Science and Engineering in National Yan
 | [CVE-2024-47374](https://patchstack.com/database/vulnerability/litespeed-cache/wordpress-litespeed-cache-plugin-6-5-0-2-cross-site-scripting-xss-vulnerability)   | LiteSpeed Cache                                | 7.1     |
 | [CVE-2024-47637](https://patchstack.com/database/vulnerability/litespeed-cache/wordpress-litespeed-cache-plugin-6-4-1-path-traversal-vulnerability)               | LiteSpeed Cache                                | 8.8     |
 | [CVE-2024-50550](https://patchstack.com/database/vulnerability/litespeed-cache/wordpress-litespeed-cache-plugin-6-5-1-privilege-escalation-vulnerability)         | LiteSpeed Cache                                | 8.1     |
+| CVE-2024-51915                                                                                                                                                    | LiteSpeed Cache                                | 6.5     |
 
 ## My Bounties
 
