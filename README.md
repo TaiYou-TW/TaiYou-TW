@@ -5,7 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sun@taiyou.tw)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://taiyou.tw)
 
-[<img src="https://github.com/user-attachments/assets/cabd89c1-2234-4ba1-9757-a56500dbc1d0" alt="OSWA" width="125px">](https://www.credential.net/0ab75dfd-b494-4b1a-b92c-2e61f225526c)
+[<img src="https://github.com/user-attachments/assets/be8d1b67-1919-4334-a593-9a3fb827be8c" alt="OSWA" width="100px">](https://www.credential.net/0ab75dfd-b494-4b1a-b92c-2e61f225526c)
+[<img src="https://github.com/user-attachments/assets/eebe2c9f-6f64-469c-84e8-463b874fd65e" alt="OSWE" width="100px">](https://credentials.offsec.com/425b9547-c64f-49a7-98a0-3d25b3a874f4)
 
 Experienced developer and security researcher with a strong background in software development and information security. Skilled in identifying, analyzing security risks, with a proven track record in both technical projects and security research.
 
